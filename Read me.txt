@@ -1,0 +1,21 @@
+Created By Muhammad Aliyu, CEO of Mustiash Tech Company
+
+install nodejs and mongodb
+
+after installing them
+
+goto your terminal i.e cmd on window
+
+1. navigate to server folder in the project and type
+
+npm install apollo-server-express express cors mongoose
+
+then type:
+           node index
+
+2. navigate to the client folder in the project and type
+
+npm install material-ui graphql-tag react-apollo react-router-dom apollo-client apollo-cache-inmemory apollo-upload-client
+
+then type:
+           npm start
